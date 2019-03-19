@@ -1,7 +1,7 @@
 
 from datetime import datetime
 
-from sayhello import db
+from sayhello  import  db
 
 
 class Message(db.Model):
